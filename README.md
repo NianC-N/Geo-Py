@@ -1,2 +1,2 @@
 # Geo-Py
-Geo
+print('hello world!')
